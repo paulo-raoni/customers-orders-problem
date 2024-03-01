@@ -1,0 +1,16 @@
+{
+  "name": "customers-orders-problem",
+  "version": "1.0.0",
+  "description": "customers-orders-problem",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paulo-raoni/customers-orders-problem.git"
+  },
+  "author": "Paulo Raoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/paulo-raoni/customers-orders-problem/issues"
+  },
+  "homepage": "https://github.com/paulo-raoni/customers-orders-problem#readme"
+}
